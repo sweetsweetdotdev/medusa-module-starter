@@ -2,8 +2,7 @@
   "name": "medusa-module-starter",
   "version": "1.0.0",
   "description": "Module starter",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sweetsweetdotdev/medusa-module-starter.git"
@@ -18,5 +17,12 @@
   "bugs": {
     "url": "https://github.com/sweetsweetdotdev/medusa-module-starter/issues"
   },
-  "homepage": "https://github.com/sweetsweetdotdev/medusa-module-starter#readme"
+  "homepage": "https://github.com/sweetsweetdotdev/medusa-module-starter#readme",
+  "devDependencies": {
+    "@medusajs/admin-sdk": "^2.0.0",
+    "@medusajs/cli": "^2.0.0",
+    "@medusajs/framework": "^2.0.0",
+    "@medusajs/medusa": "^2.0.0",
+    "@medusajs/test-utils": "^2.0.0"
+  }
 }
