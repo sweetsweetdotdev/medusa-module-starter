@@ -1,0 +1,22 @@
+{
+  "name": "medusa-module-starter",
+  "version": "1.0.0",
+  "description": "Module starter",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sweetsweetdotdev/medusa-module-starter.git"
+  },
+  "keywords": [
+    "MedusaJS",
+    "SweetSweet",
+    "plugin"
+  ],
+  "author": "Andreas Ekström <andreas@sweetsweet.dev>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sweetsweetdotdev/medusa-module-starter/issues"
+  },
+  "homepage": "https://github.com/sweetsweetdotdev/medusa-module-starter#readme"
+}
