@@ -19,13 +19,17 @@
   },
   "homepage": "https://github.com/sweetsweetdotdev/medusa-module-starter#readme",
   "devDependencies": {
-    "@medusajs/admin-sdk": "^2.0.0",
-    "@medusajs/cli": "^2.0.0",
-    "@medusajs/framework": "^2.0.0",
-    "@medusajs/medusa": "^2.0.0",
-    "@medusajs/test-utils": "^2.0.0",
+    "@medusajs/admin-sdk": "latest",
+    "@medusajs/cli": "latest",
+    "@medusajs/framework": "latest",
+    "@medusajs/medusa": "latest",
+    "@medusajs/test-utils": "latest",
+    "@medusajs/ui": "^4.0.1",
     "@types/react": "^18.3.12",
     "@types/react-dom": "^18.3.1",
     "typescript": "^5.6.3"
+  },
+  "engines": {
+    "node": ">=20"
   }
 }
